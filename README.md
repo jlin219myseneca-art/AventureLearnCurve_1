@@ -1,4 +1,5 @@
 # AventureLearnCurve_1
+<img width="935" height="504" alt="image" src="https://github.com/user-attachments/assets/dbf55a83-3f06-4260-9a34-3ee9853e81c8" />
 
 # 📊 AdventureWorks Sales Variance Analysis
 
